@@ -1,0 +1,42 @@
+
+.title {
+text-align: center;
+}
+.basic {
+margin-top: 20px;
+display: flex;
+align-items: center;
+}
+.basic-item {
+ width: 33.333%;
+}
+.item {
+  padding-top: 10px;
+  padding-left: 50px;
+}
+.basic-item-2 {
+ width: 66.666%;
+}
+
+.basic-item-3 {
+  width: 100%;
+}
+
+.divider {
+ border: 1px solid black;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+#footer {
+ position:fixed;
+ bottom:0px;
+ padding:20px;
+ margin:10px
+}
+.whitespace {
+  display: inline-block;
+  width: 10px;
+}
+.cost {
+  float: right
+}
